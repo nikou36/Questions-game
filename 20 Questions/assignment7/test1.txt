@@ -1,0 +1,5 @@
+Q:is it an animal
+A:cat
+Q:does it go on your feet?
+A:shoe
+A:computer

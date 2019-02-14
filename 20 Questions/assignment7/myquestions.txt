@@ -1,0 +1,23 @@
+Q:Is it yellow?
+Q:Is it a fruit?
+A:bannana
+Q:Is it organic?
+Q:Is it a rare pokemon?
+A:Electrabuzz
+Q:Can you make spaghetti with it?
+A:Squash
+A:pikachu
+A:School bus
+Q:Can you make calls?
+A:Cell Phone
+Q:Can you write in it?
+Q:Can you read it?
+A:Book
+A:Note Book
+Q:Is it used in the military?
+Q:Was it used during ancient/medieval times?
+A:sword
+A:Fighter Jet
+Q:can you flush it?
+A:Toilet
+A:computer
